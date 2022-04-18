@@ -2,7 +2,6 @@ package com.wangzg.community.controller.general;
 
 import cn.hutool.poi.excel.ExcelUtil;
 import cn.hutool.poi.excel.ExcelWriter;
-import com.sun.deploy.net.URLEncoder;
 import com.wangzg.community.po.Resident;
 import com.wangzg.community.service.ResidentService;
 import com.wangzg.community.utils.APIResult;
@@ -13,6 +12,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.ServletOutputStream;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.net.URLEncoder;
 import java.util.*;
 
 /**

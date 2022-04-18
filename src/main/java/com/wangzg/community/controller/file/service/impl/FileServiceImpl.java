@@ -5,7 +5,7 @@ import com.wangzg.community.mapper.DocumentMapper;
 import com.wangzg.community.po.Document;
 import com.wangzg.community.utils.ConstantsUtils;
 import org.springframework.stereotype.Service;
-import sun.plugin.dom.DOMObject;
+//import sun.plugin.dom.DOMObject;
 
 import java.util.List;
 import java.util.stream.Collectors;
