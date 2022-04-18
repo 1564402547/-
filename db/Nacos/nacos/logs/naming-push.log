@@ -1,0 +1,410 @@
+2022-03-17 09:28:06,116 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=13}
+
+2022-03-17 09:28:06,473 INFO [PUSH-SUCC] 68ms, all delay time 635ms, SLA 358ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=13}, DataSize=1, target=10.130.15.43
+
+2022-03-17 09:39:39,114 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=15}
+
+2022-03-17 09:39:39,581 INFO [PUSH-SUCC] 62ms, all delay time 605ms, SLA 467ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=15}, DataSize=1, target=10.130.15.43
+
+2022-03-17 09:50:22,615 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-17 09:50:23,100 INFO [PUSH-SUCC] 76ms, all delay time 650ms, SLA 477ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 09:52:19,628 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}
+
+2022-03-17 09:52:20,060 INFO [PUSH-SUCC] 222ms, all delay time 781ms, SLA 432ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-17 09:52:21,109 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=4}
+
+2022-03-17 09:52:21,110 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}
+
+2022-03-17 09:52:21,511 INFO [PUSH-SUCC] 35ms, all delay time 619ms, SLA 401ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}, DataSize=1, target=10.130.15.43
+
+2022-03-17 09:55:01,629 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}
+
+2022-03-17 09:55:02,155 INFO [PUSH-SUCC] 16ms, all delay time 568ms, SLA 564ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}, DataSize=1, target=10.130.15.43
+
+2022-03-17 09:57:21,016 INFO [PUSH-SUCC] 2584ms, all delay time 3154ms, SLA 3154ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, DataSize=0, target=10.130.15.43
+
+2022-03-17 09:57:22,646 INFO [PUSH-SUCC] 3274ms, all delay time 3867ms, SLA 3867ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 09:57:22,761 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=2}
+
+2022-03-17 09:57:22,765 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}
+
+2022-03-17 09:57:23,339 INFO [PUSH-SUCC] 2ms, all delay time 579ms, SLA 574ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-17 10:03:41,177 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-17 10:03:41,698 INFO [PUSH-SUCC] 15ms, all delay time 567ms, SLA 521ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 10:04:39,606 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}
+
+2022-03-17 10:04:40,156 INFO [PUSH-SUCC] 5ms, all delay time 555ms, SLA 550ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-17 10:10:57,574 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}
+
+2022-03-17 10:10:57,683 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}
+
+2022-03-17 10:10:57,704 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=6}
+
+2022-03-17 10:10:57,706 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}
+
+2022-03-17 10:10:58,077 INFO [PUSH-SUCC] 3ms, all delay time 511ms, SLA 371ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}, DataSize=1, target=10.130.15.43
+
+2022-03-17 10:13:05,460 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=9}
+
+2022-03-17 10:13:05,682 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=10}
+
+2022-03-17 10:13:05,706 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=10}
+
+2022-03-17 10:13:05,904 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=11}
+
+2022-03-17 10:13:05,982 INFO [PUSH-SUCC] 9ms, all delay time 574ms, SLA 77ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=11}, DataSize=1, target=10.130.15.43
+
+2022-03-17 10:14:24,646 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=13}
+
+2022-03-17 10:14:25,075 INFO [PUSH-SUCC] 51ms, all delay time 567ms, SLA 428ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=13}, DataSize=1, target=10.130.15.43
+
+2022-03-17 10:17:20,107 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-17 10:17:20,537 INFO [PUSH-SUCC] 29ms, all delay time 539ms, SLA 430ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 10:18:11,256 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}
+
+2022-03-17 10:18:11,711 INFO [PUSH-SUCC] 32ms, all delay time 556ms, SLA 455ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-17 10:19:12,257 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}
+
+2022-03-17 10:19:12,702 INFO [PUSH-SUCC] 30ms, all delay time 607ms, SLA 445ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}, DataSize=1, target=10.130.15.43
+
+2022-03-17 10:21:05,271 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-17 10:21:05,663 INFO [PUSH-SUCC] 26ms, all delay time 540ms, SLA 392ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 10:51:42,521 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-17 10:51:42,951 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-17 10:51:42,953 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=2}
+
+2022-03-17 10:51:42,992 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}
+
+2022-03-17 10:51:43,098 INFO [PUSH-SUCC] 46ms, all delay time 615ms, SLA 110ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-17 10:55:05,624 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}
+
+2022-03-17 10:55:06,156 INFO [PUSH-SUCC] 89ms, all delay time 675ms, SLA 532ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:07:41,196 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}
+
+2022-03-17 11:07:41,637 INFO [PUSH-SUCC] 65ms, all delay time 605ms, SLA 441ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:10:22,532 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=9}
+
+2022-03-17 11:10:22,915 INFO [PUSH-SUCC] 38ms, all delay time 543ms, SLA 383ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=9}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:11:38,000 ERROR [PUSH-FAIL] 87ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=11}, reason=Stream is already completed, no further calls are allowed, target=10.130.15.43
+
+2022-03-17 11:11:38,245 ERROR Reason detail: 
+
+java.lang.IllegalStateException: Stream is already completed, no further calls are allowed
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:504)
+	at io.grpc.stub.ServerCalls$ServerCallStreamObserverImpl.onNext(ServerCalls.java:346)
+	at com.alibaba.nacos.core.remote.grpc.GrpcConnection.sendRequestNoAck(GrpcConnection.java:62)
+	at com.alibaba.nacos.core.remote.grpc.GrpcConnection.sendRequestInner(GrpcConnection.java:94)
+	at com.alibaba.nacos.core.remote.grpc.GrpcConnection.asyncRequest(GrpcConnection.java:117)
+	at com.alibaba.nacos.core.remote.RpcPushService.pushWithCallback(RpcPushService.java:55)
+	at com.alibaba.nacos.naming.push.v2.executor.PushExecutorRpcImpl.doPushWithCallback(PushExecutorRpcImpl.java:49)
+	at com.alibaba.nacos.naming.push.v2.executor.PushExecutorDelegate.doPushWithCallback(PushExecutorDelegate.java:52)
+	at com.alibaba.nacos.naming.push.v2.task.PushExecuteTask.run(PushExecuteTask.java:65)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:116)
+2022-03-17 11:11:38,289 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=12}
+
+2022-03-17 11:11:40,022 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=13}
+
+2022-03-17 11:11:40,236 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=14}
+
+2022-03-17 11:11:41,693 ERROR [PUSH-FAIL] 5002ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=14}, reason=Timeout After 5000 milliseconds,requestId =78, target=10.130.15.43
+
+2022-03-17 11:11:41,694 ERROR Reason detail: 
+
+java.util.concurrent.TimeoutException: Timeout After 5000 milliseconds,requestId =78
+	at com.alibaba.nacos.api.remote.DefaultRequestFuture$TimeoutHandler.run(DefaultRequestFuture.java:194)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-03-17 11:11:42,914 ERROR [PUSH-FAIL] 5001ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=14}, reason=Timeout After 5000 milliseconds,requestId =79, target=10.130.15.43
+
+2022-03-17 11:11:42,916 ERROR Reason detail: 
+
+java.util.concurrent.TimeoutException: Timeout After 5000 milliseconds,requestId =79
+	at com.alibaba.nacos.api.remote.DefaultRequestFuture$TimeoutHandler.run(DefaultRequestFuture.java:194)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-03-17 11:11:45,452 ERROR [PUSH-FAIL] 5012ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=14}, reason=Timeout After 5000 milliseconds,requestId =80, target=10.130.15.43
+
+2022-03-17 11:11:45,453 ERROR Reason detail: 
+
+java.util.concurrent.TimeoutException: Timeout After 5000 milliseconds,requestId =80
+	at com.alibaba.nacos.api.remote.DefaultRequestFuture$TimeoutHandler.run(DefaultRequestFuture.java:194)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-03-17 11:11:51,093 ERROR [PUSH-FAIL] 10653ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=14}, reason=Timeout After 5000 milliseconds,requestId =80, target=10.130.15.43
+
+2022-03-17 11:11:51,093 ERROR Reason detail: 
+
+java.util.concurrent.TimeoutException: Timeout After 5000 milliseconds,requestId =80
+	at com.alibaba.nacos.api.remote.DefaultRequestFuture$TimeoutHandler.run(DefaultRequestFuture.java:194)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-03-17 11:11:51,142 INFO [PUSH-SUCC] 4661ms, all delay time 5689ms, SLA 10907ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=14}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:11:56,213 INFO [PUSH-SUCC] 4068ms, all delay time 5120ms, SLA 15978ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=14}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:13:48,153 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=16}
+
+2022-03-17 11:13:48,527 INFO [PUSH-SUCC] 39ms, all delay time 596ms, SLA 442ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=16}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:17:12,238 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-17 11:17:12,702 INFO [PUSH-SUCC] 34ms, all delay time 615ms, SLA 464ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:19:19,118 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}
+
+2022-03-17 11:19:19,591 INFO [PUSH-SUCC] 41ms, all delay time 566ms, SLA 474ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:21:58,519 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}
+
+2022-03-17 11:21:59,042 INFO [PUSH-SUCC] 27ms, all delay time 610ms, SLA 523ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:23:56,175 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}
+
+2022-03-17 11:23:56,697 INFO [PUSH-SUCC] 29ms, all delay time 615ms, SLA 522ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:27:01,704 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=9}
+
+2022-03-17 11:27:02,111 INFO [PUSH-SUCC] 28ms, all delay time 528ms, SLA 407ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=9}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:28:42,184 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=11}
+
+2022-03-17 11:28:42,757 INFO [PUSH-SUCC] 4ms, all delay time 574ms, SLA 573ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=11}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:36:27,233 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=13}
+
+2022-03-17 11:36:27,657 INFO [PUSH-SUCC] 26ms, all delay time 570ms, SLA 424ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=13}, DataSize=1, target=10.130.15.43
+
+2022-03-17 11:40:50,319 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=15}
+
+2022-03-17 11:40:50,409 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=15}
+
+2022-03-17 11:40:50,421 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=16}
+
+2022-03-17 11:40:50,449 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=17}
+
+2022-03-17 11:40:50,918 INFO [PUSH-SUCC] 4ms, all delay time 605ms, SLA 469ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=17}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:05:22,049 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=19}
+
+2022-03-17 14:05:22,527 INFO [PUSH-SUCC] 224ms, all delay time 751ms, SLA 478ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=19}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:11:47,361 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=20}
+
+2022-03-17 14:11:47,376 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=21}
+
+2022-03-17 14:11:47,448 INFO [PUSH-SUCC] 3ms, all delay time 569ms, SLA 72ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=21}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:11:47,518 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=22}
+
+2022-03-17 14:11:47,599 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=23}
+
+2022-03-17 14:11:48,006 INFO [PUSH-SUCC] 2ms, all delay time 536ms, SLA 407ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=23}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:27:54,491 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-17 14:27:55,025 INFO [PUSH-SUCC] 117ms, all delay time 663ms, SLA 505ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:29:14,366 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}
+
+2022-03-17 14:29:14,831 INFO [PUSH-SUCC] 29ms, all delay time 579ms, SLA 466ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:30:41,999 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}
+
+2022-03-17 14:30:42,467 INFO [PUSH-SUCC] 27ms, all delay time 565ms, SLA 470ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:34:19,091 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}
+
+2022-03-17 14:34:19,580 INFO [PUSH-SUCC] 27ms, all delay time 588ms, SLA 489ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:40:43,870 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=9}
+
+2022-03-17 14:40:44,249 INFO [PUSH-SUCC] 27ms, all delay time 552ms, SLA 379ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=9}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:41:32,315 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=11}
+
+2022-03-17 14:41:32,821 INFO [PUSH-SUCC] 27ms, all delay time 620ms, SLA 507ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=11}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:45:33,614 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=13}
+
+2022-03-17 14:45:34,115 INFO [PUSH-SUCC] 27ms, all delay time 595ms, SLA 501ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=13}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:47:37,846 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=15}
+
+2022-03-17 14:47:38,352 INFO [PUSH-SUCC] 28ms, all delay time 619ms, SLA 507ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=15}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:49:42,187 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=17}
+
+2022-03-17 14:49:42,633 INFO [PUSH-SUCC] 49ms, all delay time 592ms, SLA 446ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=17}, DataSize=1, target=10.130.15.43
+
+2022-03-17 14:59:10,201 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=1}
+
+2022-03-17 14:59:10,638 INFO [PUSH-SUCC] 36ms, all delay time 541ms, SLA 438ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 15:31:01,071 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=1}
+
+2022-03-17 15:31:01,459 INFO [PUSH-SUCC] 92ms, all delay time 631ms, SLA 389ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 15:47:45,543 INFO [PUSH-SUCC] 450ms, all delay time 994ms, SLA 81240ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=2}, DataSize=0, target=10.130.15.43
+
+2022-03-17 15:47:46,184 INFO [PUSH-SUCC] 67ms, all delay time 623ms, SLA 623ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-17 15:54:59,481 INFO [PUSH-SUCC] 181ms, all delay time 708ms, SLA 708ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, DataSize=0, target=10.130.15.43
+
+2022-03-17 15:55:04,987 INFO [PUSH-SUCC] 12ms, all delay time 517ms, SLA 564ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 17:04:50,660 INFO [PUSH-SUCC] 359ms, all delay time 936ms, SLA 978ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, DataSize=0, target=10.130.15.43
+
+2022-03-17 17:04:51,762 INFO [PUSH-SUCC] 61ms, all delay time 608ms, SLA 608ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, DataSize=0, target=10.130.15.43
+
+2022-03-17 17:04:59,553 INFO [PUSH-SUCC] 31ms, all delay time 1042ms, SLA 1042ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 17:05:00,389 INFO [PUSH-SUCC] 877ms, all delay time 1878ms, SLA 1878ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 17:40:45,293 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=1}
+
+2022-03-17 17:40:45,706 INFO [PUSH-SUCC] 114ms, all delay time 624ms, SLA 412ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 17:42:44,262 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=3}
+
+2022-03-17 17:42:44,493 INFO [PUSH-SUCC] 29ms, all delay time 534ms, SLA 232ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-17 18:19:42,781 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=1}
+
+2022-03-17 18:19:43,199 INFO [PUSH-SUCC] 148ms, all delay time 715ms, SLA 414ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-17 18:20:33,914 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=3}
+
+2022-03-17 18:20:34,329 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=3}
+
+2022-03-17 18:20:34,538 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=5}
+
+2022-03-17 18:20:34,604 ERROR [PUSH-FAIL] 271ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=5}, reason=Stream is already completed, no further calls are allowed, target=10.130.15.43
+
+2022-03-17 18:20:34,829 ERROR Reason detail: 
+
+java.lang.IllegalStateException: Stream is already completed, no further calls are allowed
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:504)
+	at io.grpc.stub.ServerCalls$ServerCallStreamObserverImpl.onNext(ServerCalls.java:346)
+	at com.alibaba.nacos.core.remote.grpc.GrpcConnection.sendRequestNoAck(GrpcConnection.java:62)
+	at com.alibaba.nacos.core.remote.grpc.GrpcConnection.sendRequestInner(GrpcConnection.java:94)
+	at com.alibaba.nacos.core.remote.grpc.GrpcConnection.asyncRequest(GrpcConnection.java:117)
+	at com.alibaba.nacos.core.remote.RpcPushService.pushWithCallback(RpcPushService.java:55)
+	at com.alibaba.nacos.naming.push.v2.executor.PushExecutorRpcImpl.doPushWithCallback(PushExecutorRpcImpl.java:49)
+	at com.alibaba.nacos.naming.push.v2.executor.PushExecutorDelegate.doPushWithCallback(PushExecutorDelegate.java:52)
+	at com.alibaba.nacos.naming.push.v2.task.PushExecuteTask.run(PushExecuteTask.java:65)
+	at com.alibaba.nacos.common.task.engine.TaskExecuteWorker$InnerWorker.run(TaskExecuteWorker.java:116)
+2022-03-17 18:20:34,855 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=5}
+
+2022-03-17 18:20:35,096 INFO [PUSH-SUCC] 5ms, all delay time 1269ms, SLA 558ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=5}, DataSize=1, target=10.130.15.43
+
+2022-03-17 18:20:35,461 INFO [PUSH-SUCC] 17ms, all delay time 1071ms, SLA 923ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=5}, DataSize=1, target=10.130.15.43
+
+2022-03-17 18:20:39,330 ERROR [PUSH-FAIL] 5001ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=5}, reason=Timeout After 5000 milliseconds,requestId =12, target=10.130.15.43
+
+2022-03-17 18:20:39,482 ERROR Reason detail: 
+
+java.util.concurrent.TimeoutException: Timeout After 5000 milliseconds,requestId =12
+	at com.alibaba.nacos.api.remote.DefaultRequestFuture$TimeoutHandler.run(DefaultRequestFuture.java:194)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-03-17 18:43:38,628 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=1}
+
+2022-03-17 18:43:38,650 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=1}
+
+2022-03-17 18:43:38,796 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=2}
+
+2022-03-17 18:43:39,207 INFO [PUSH-SUCC] 179ms, all delay time 690ms, SLA 411ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=2}, DataSize=1, target=10.130.15.43
+
+2022-03-17 18:43:39,274 INFO [PUSH-SUCC] 66ms, all delay time 756ms, SLA 477ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=2}, DataSize=1, target=10.130.15.43
+
+2022-03-17 18:43:44,030 ERROR [PUSH-FAIL] 5002ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=2}, reason=Timeout After 5000 milliseconds,requestId =17, target=10.130.15.43
+
+2022-03-17 18:43:44,031 ERROR Reason detail: 
+
+java.util.concurrent.TimeoutException: Timeout After 5000 milliseconds,requestId =17
+	at com.alibaba.nacos.api.remote.DefaultRequestFuture$TimeoutHandler.run(DefaultRequestFuture.java:194)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-03-17 18:46:08,410 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=4}
+
+2022-03-17 18:46:08,956 INFO [PUSH-SUCC] 70ms, all delay time 670ms, SLA 547ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=4}, DataSize=1, target=10.130.15.43
+
+2022-03-17 18:48:06,683 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=6}
+
+2022-03-17 18:48:07,048 INFO [PUSH-SUCC] 47ms, all delay time 635ms, SLA 365ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=6}, DataSize=1, target=10.130.15.43
+
+2022-03-17 18:50:25,931 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=8}
+
+2022-03-17 18:50:26,421 INFO [PUSH-SUCC] 30ms, all delay time 604ms, SLA 490ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=8}, DataSize=1, target=10.130.15.43
+
+2022-03-17 18:51:39,459 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=10}
+
+2022-03-17 18:51:40,164 INFO [PUSH-SUCC] 213ms, all delay time 809ms, SLA 706ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=10}, DataSize=1, target=10.130.15.43
+
+2022-03-17 20:18:32,285 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=12}
+
+2022-03-17 20:18:32,758 INFO [PUSH-SUCC] 110ms, all delay time 663ms, SLA 473ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=12}, DataSize=1, target=10.130.15.43
+
+2022-03-17 20:20:10,094 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=14}
+
+2022-03-17 20:20:10,636 INFO [PUSH-SUCC] 169ms, all delay time 684ms, SLA 542ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=14}, DataSize=1, target=10.130.15.43
+
+2022-03-17 20:21:42,252 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=16}
+
+2022-03-17 20:21:42,710 INFO [PUSH-SUCC] 30ms, all delay time 560ms, SLA 467ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=16}, DataSize=1, target=10.130.15.43
+
+2022-03-17 20:28:53,026 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=17}
+
+2022-03-17 20:28:53,556 INFO [PUSH-SUCC] 52ms, all delay time 597ms, SLA 530ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=17}, DataSize=0, target=10.130.15.43
+
+2022-03-17 20:28:54,173 INFO [PUSH-SUCC] 58ms, all delay time 587ms, SLA 587ms, Service{namespace='public', group='DEFAULT_GROUP', name='application-dev', ephemeral=true, revision=18}, DataSize=1, target=10.130.15.43
+

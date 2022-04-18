@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: community-test
+  main:
+    allow-bean-definition-overriding: true
+  cloud:
+    nacos:
+      config:
+        server-addr: 47.113.219.103:8848
+        file-extension: yml
+        namespace: 4c05b63c-9a3c-499d-a0b6-a5ce59b39e55
+        group: DEFAULT_GROUP
+        extension-configs:
+          - data-id: community.yml
+            group: DEFAULT_GROUP
+            refresh: true  # 动态刷新配置   
+#        shared-configs:
+#          - application.${spring.cloud.nacos.config.file-extension}
+#          - application-dev.${spring.cloud.nacos.config.file-extension}
+#        username: nacos
+#        password: nacos
+      discovery:
+        server-addr: 47.113.219.103:8848

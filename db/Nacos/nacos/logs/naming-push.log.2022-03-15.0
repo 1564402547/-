@@ -1,0 +1,28 @@
+2022-03-15 17:06:31,139 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='app-cloudtest', ephemeral=true, revision=1}
+
+2022-03-15 17:06:32,391 INFO [PUSH-SUCC] 948ms, all delay time 1509ms, SLA 1253ms, Service{namespace='public', group='DEFAULT_GROUP', name='app-cloudtest', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-15 17:16:24,495 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='app-cloudtest', ephemeral=true, revision=3}
+
+2022-03-15 17:16:24,914 INFO [PUSH-SUCC] 39ms, all delay time 542ms, SLA 419ms, Service{namespace='public', group='DEFAULT_GROUP', name='app-cloudtest', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-15 17:25:28,295 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=1}
+
+2022-03-15 17:25:28,817 INFO [PUSH-SUCC] 35ms, all delay time 604ms, SLA 523ms, Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-15 17:27:39,402 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=3}
+
+2022-03-15 17:27:39,919 INFO [PUSH-SUCC] 57ms, all delay time 631ms, SLA 517ms, Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-15 17:32:28,480 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=5}
+
+2022-03-15 17:32:28,968 INFO [PUSH-SUCC] 28ms, all delay time 594ms, SLA 488ms, Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=5}, DataSize=1, target=10.130.15.43
+
+2022-03-15 17:33:55,238 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=7}
+
+2022-03-15 17:33:55,750 INFO [PUSH-SUCC] 28ms, all delay time 598ms, SLA 512ms, Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=7}, DataSize=1, target=10.130.15.43
+
+2022-03-15 17:34:40,281 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=9}
+
+2022-03-15 17:34:40,817 INFO [PUSH-SUCC] 32ms, all delay time 620ms, SLA 536ms, Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=9}, DataSize=1, target=10.130.15.43
+

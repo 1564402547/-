@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.wangzg.community.mapper.VisitorMapper">
+
+    <resultMap id="visMapper" type="com.wangzg.community.po.Visitor">
+        <id column="visitor_id" property="visitorId"></id>
+        <result column="vis_name" property="visName"></result>
+        <result column="vis_phone" property="visPhone"></result>
+        <result column="vis_remark" property="visRemark"></result>
+        <result column="vis_helth_code" property="visHelthCode"></result>
+        <result column="temperature" property="temperature"></result>
+        <result column="vis_time" property="visTime"></result>
+        <result column="vis_status" property="visStatus"></result>
+        <result column="address_id" property="addressId"></result>
+        <result column="name" property="name"></result>
+        <result column="house" property="house"></result>
+        <result column="unit" property="unit"></result>
+        <result column="vis_address" property="visAddress"></result>
+        <result column="vis_type" property="visType"></result>
+    </resultMap>
+
+
+    <select id="findAll" resultMap="visMapper">
+        SELECT * FROM tb_visitor
+        LEFT JOIN tb_address
+        ON tb_visitor.address_id = tb_address.address_id
+        <where>
+            <if test=" visName != null and visName != ''"> vis_name = #{visName}</if>
+            <if test=" visHelthCode != null and visHelthCode != ''"> and vis_helth_code = #{visHelthCode}</if>
+            <if test=" visType != null and visType != ''"> and vis_type = #{visType}</if>
+        </where>
+    </select>
+
+    <insert id="save"  useGeneratedKeys="true" >
+        insert  into tb_visitor (address_id,vis_name,vis_phone,vis_remark,vis_helth_code,vis_address,temperature,vis_type)
+         values (#{addressId},#{visName},#{visPhone},#{visRemark},#{visHelthCode},#{visAddress},#{temperature},#{visType})
+    </insert>
+
+    <update id="upBatchVis">
+        <foreach collection="ids" item="item" index="index" open="" close="" separator=";">
+            update tb_visitor
+            set vis_status = #{visStatus}
+            where visitor_id = #{item.value}
+        </foreach>
+    </update>
+
+    <delete id="deleteByVisitorIdInt">
+        <foreach collection="ids" item="item" index="index" open="" close="" separator=";">
+            delete from tb_visitor
+            where visitor_id = #{item.value}
+        </foreach>
+    </delete>
+
+
+    <update id="updateVisStatusByResId">
+        update tb_visitor
+        set vis_status = #{visStatus}
+        where visitor_id = #{visitorId}
+    </update>
+</mapper>

@@ -1,0 +1,16 @@
+2022-03-16 09:45:16,791 INFO [dump-all-ok] application.yaml+DEFAULT_GROUP, 1647336960879, length=61, md5=c128e9b80f3421b4671214c8edcdb200
+
+2022-03-16 09:45:16,802 INFO [dump-all-ok] application-dev.yaml+DEFAULT_GROUP, 1647336718597, length=936, md5=d2ed8709e3ac36ef9c63c4adb233e2f4
+
+2022-03-16 14:38:51,166 INFO [dump-all-ok] application-dev.yaml+DEFAULT_GROUP, 1647401040263, length=957, md5=c637a0c7f2d5b23b358333e8c61b038c
+
+2022-03-16 14:59:48,027 WARN [dump-ignore] ignore to save cache file. groupKey=application-dev.yaml+DEFAULT_GROUP+ae0844d4-108f-425d-b80e-d89882f203f4, md5=0639226d1fdfa477ff31c261ba6d20a7, lastModifiedOld=1647413952234, lastModifiedNew=1647413987958
+
+2022-03-16 16:05:44,134 WARN [dump-ignore] ignore to save cache file. groupKey=application-dev.yaml+DEFAULT_GROUP+ae0844d4-108f-425d-b80e-d89882f203f4, md5=1e7af7183bbf91feeda3cbd218862529, lastModifiedOld=1647416262780, lastModifiedNew=1647417944037
+
+2022-03-16 16:33:12,627 INFO [dump-all-ok] application-dev.yaml+DEFAULT_GROUP, 1647415107327, length=956, md5=27f0a3dff74e936d0d0af81801b70bb9
+
+2022-03-16 16:33:12,637 INFO [dump-all-ok] application.yml+DEFAULT_GROUP, 1647412792411, length=21, md5=82319c4350e866b53ef15e80ff577907
+
+2022-03-16 16:33:12,637 INFO [dump-all-ok] application-dev.yaml+DEFAULT_GROUP, 1647417944037, length=988, md5=1e7af7183bbf91feeda3cbd218862529
+

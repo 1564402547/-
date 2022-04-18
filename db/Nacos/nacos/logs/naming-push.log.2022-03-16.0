@@ -1,0 +1,168 @@
+2022-03-16 10:41:09,312 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='springboot-nacos', ephemeral=true, revision=1}
+
+2022-03-16 10:41:09,999 INFO [PUSH-SUCC] 338ms, all delay time 1103ms, SLA 688ms, Service{namespace='public', group='DEFAULT_GROUP', name='springboot-nacos', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-16 10:41:38,680 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='springboot-nacos', ephemeral=true, revision=3}
+
+2022-03-16 10:41:39,089 INFO [PUSH-SUCC] 36ms, all delay time 585ms, SLA 409ms, Service{namespace='public', group='DEFAULT_GROUP', name='springboot-nacos', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-16 11:16:58,283 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-16 11:16:58,581 INFO [PUSH-SUCC] 128ms, all delay time 659ms, SLA 299ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-16 11:21:01,980 INFO [PUSH-SUCC] 29ms, all delay time 625ms, SLA 625ms, Service{namespace='public', group='DEFAULT_GROUP', name='community', ephemeral=true, revision=0}, DataSize=0, target=10.130.15.43
+
+2022-03-16 11:21:49,767 INFO [PUSH-SUCC] 20ms, all delay time 611ms, SLA 611ms, Service{namespace='public', group='DEFAULT_GROUP', name='community', ephemeral=true, revision=0}, DataSize=0, target=10.130.15.43
+
+2022-03-16 11:23:10,015 INFO [PUSH-SUCC] 18ms, all delay time 581ms, SLA 581ms, Service{namespace='public', group='DEFAULT_GROUP', name='community', ephemeral=true, revision=0}, DataSize=0, target=10.130.15.43
+
+2022-03-16 11:24:33,184 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='community', ephemeral=true, revision=1}
+
+2022-03-16 11:24:33,648 INFO [PUSH-SUCC] 31ms, all delay time 554ms, SLA 465ms, Service{namespace='public', group='DEFAULT_GROUP', name='community', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-16 11:28:01,364 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='community', ephemeral=true, revision=3}
+
+2022-03-16 11:28:01,655 INFO [PUSH-SUCC] 50ms, all delay time 551ms, SLA 291ms, Service{namespace='public', group='DEFAULT_GROUP', name='community', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-16 14:40:57,888 INFO [PUSH-SUCC] 79ms, all delay time 581ms, SLA 599ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, DataSize=0, target=10.130.15.43
+
+2022-03-16 14:42:22,172 INFO [PUSH-SUCC] 18ms, all delay time 546ms, SLA 546ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, DataSize=0, target=10.130.15.43
+
+2022-03-16 14:52:24,781 INFO [PUSH-SUCC] 19ms, all delay time 576ms, SLA 576ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, DataSize=0, target=10.130.15.43
+
+2022-03-16 14:53:22,888 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-16 14:53:23,301 INFO [PUSH-SUCC] 40ms, all delay time 552ms, SLA 413ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-16 16:06:50,760 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-16 16:06:51,263 INFO [PUSH-SUCC] 77ms, all delay time 669ms, SLA 504ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-16 16:08:31,867 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}
+
+2022-03-16 16:08:32,278 INFO [PUSH-SUCC] 26ms, all delay time 572ms, SLA 412ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-16 16:33:47,875 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-16 16:33:49,195 INFO [PUSH-SUCC] 991ms, all delay time 1544ms, SLA 1320ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-16 16:36:03,763 INFO [PUSH-SUCC] 19ms, all delay time 537ms, SLA 22365ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=2}, DataSize=0, target=10.130.15.43
+
+2022-03-16 16:36:46,917 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}
+
+2022-03-16 16:36:47,395 INFO [PUSH-SUCC] 29ms, all delay time 603ms, SLA 479ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-16 16:50:10,232 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-16 16:50:10,743 INFO [PUSH-SUCC] 73ms, all delay time 663ms, SLA 512ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-16 16:52:44,350 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}
+
+2022-03-16 16:52:44,757 INFO [PUSH-SUCC] 29ms, all delay time 534ms, SLA 414ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}, DataSize=1, target=10.130.15.43
+
+2022-03-16 16:56:48,419 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}
+
+2022-03-16 16:56:48,828 INFO [PUSH-SUCC] 38ms, all delay time 582ms, SLA 409ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}, DataSize=1, target=10.130.15.43
+
+2022-03-16 17:04:26,180 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}
+
+2022-03-16 17:04:26,631 INFO [PUSH-SUCC] 29ms, all delay time 551ms, SLA 451ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}, DataSize=1, target=10.130.15.43
+
+2022-03-16 17:15:58,156 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=9}
+
+2022-03-16 17:15:58,618 INFO [PUSH-SUCC] 28ms, all delay time 574ms, SLA 462ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=9}, DataSize=1, target=10.130.15.43
+
+2022-03-16 17:18:46,599 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=11}
+
+2022-03-16 17:18:47,056 INFO [PUSH-SUCC] 33ms, all delay time 584ms, SLA 463ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=11}, DataSize=1, target=10.130.15.43
+
+2022-03-16 17:24:12,444 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=13}
+
+2022-03-16 17:24:12,943 INFO [PUSH-SUCC] 31ms, all delay time 592ms, SLA 499ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=13}, DataSize=1, target=10.130.15.43
+
+2022-03-16 17:31:15,267 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=15}
+
+2022-03-16 17:31:15,764 INFO [PUSH-SUCC] 28ms, all delay time 607ms, SLA 498ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=15}, DataSize=1, target=10.130.15.43
+
+2022-03-16 17:36:21,586 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=17}
+
+2022-03-16 17:36:22,031 INFO [PUSH-SUCC] 35ms, all delay time 546ms, SLA 445ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=17}, DataSize=1, target=10.130.15.43
+
+2022-03-16 17:57:28,554 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=19}
+
+2022-03-16 17:57:29,042 INFO [PUSH-SUCC] 65ms, all delay time 638ms, SLA 488ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=19}, DataSize=1, target=10.130.15.43
+
+2022-03-16 17:59:10,634 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=21}
+
+2022-03-16 17:59:11,066 INFO [PUSH-SUCC] 30ms, all delay time 548ms, SLA 440ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=21}, DataSize=1, target=10.130.15.43
+
+2022-03-16 18:00:44,568 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=23}
+
+2022-03-16 18:00:44,929 INFO [PUSH-SUCC] 91ms, all delay time 624ms, SLA 361ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=23}, DataSize=1, target=10.130.15.43
+
+2022-03-16 18:35:59,347 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=25}
+
+2022-03-16 18:35:59,940 INFO [PUSH-SUCC] 217ms, all delay time 733ms, SLA 593ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=25}, DataSize=1, target=10.130.15.43
+
+2022-03-16 18:36:41,330 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=27}
+
+2022-03-16 18:36:41,603 INFO [PUSH-SUCC] 49ms, all delay time 570ms, SLA 288ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=27}, DataSize=1, target=10.130.15.43
+
+2022-03-16 18:48:51,560 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=29}
+
+2022-03-16 18:48:52,088 INFO [PUSH-SUCC] 28ms, all delay time 622ms, SLA 528ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=29}, DataSize=1, target=10.130.15.43
+
+2022-03-16 19:20:52,343 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=31}
+
+2022-03-16 19:20:52,821 INFO [PUSH-SUCC] 52ms, all delay time 636ms, SLA 478ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=31}, DataSize=1, target=10.130.15.43
+
+2022-03-16 19:26:07,496 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=33}
+
+2022-03-16 19:26:07,938 INFO [PUSH-SUCC] 31ms, all delay time 533ms, SLA 442ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=33}, DataSize=1, target=10.130.15.43
+
+2022-03-16 19:27:52,286 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=35}
+
+2022-03-16 19:27:52,731 INFO [PUSH-SUCC] 34ms, all delay time 629ms, SLA 445ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=35}, DataSize=1, target=10.130.15.43
+
+2022-03-16 19:28:16,588 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=37}
+
+2022-03-16 19:28:17,016 INFO [PUSH-SUCC] 29ms, all delay time 563ms, SLA 428ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=37}, DataSize=1, target=10.130.15.43
+
+2022-03-16 19:41:09,289 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=39}
+
+2022-03-16 19:41:09,926 INFO [PUSH-SUCC] 533ms, all delay time 1052ms, SLA 654ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=39}, DataSize=1, target=10.130.15.43
+
+2022-03-16 19:56:07,360 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=40}
+
+2022-03-16 19:56:07,452 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=41}
+
+2022-03-16 19:56:08,017 INFO [PUSH-SUCC] 55ms, all delay time 690ms, SLA 615ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=41}, DataSize=1, target=10.130.15.43
+
+2022-03-16 20:00:26,324 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-16 20:00:26,543 INFO [PUSH-SUCC] 55ms, all delay time 572ms, SLA 219ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, DataSize=1, target=10.130.15.43
+
+2022-03-16 20:23:45,843 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}
+
+2022-03-16 20:23:46,127 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=2}
+
+2022-03-16 20:23:46,211 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}
+
+2022-03-16 20:23:46,211 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=3}
+
+2022-03-16 20:33:09,432 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}
+
+2022-03-16 20:33:09,932 INFO [PUSH-SUCC] 151ms, all delay time 740ms, SLA 500ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=5}, DataSize=1, target=10.130.15.43
+
+2022-03-16 20:35:49,715 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}
+
+2022-03-16 20:35:50,159 INFO [PUSH-SUCC] 28ms, all delay time 604ms, SLA 444ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=7}, DataSize=1, target=10.130.15.43
+
+2022-03-16 20:37:12,254 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=9}
+
+2022-03-16 20:37:12,708 INFO [PUSH-SUCC] 32ms, all delay time 587ms, SLA 454ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=9}, DataSize=1, target=10.130.15.43
+
+2022-03-16 20:38:17,517 INFO [PUSH] Task merge for Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=11}
+
+2022-03-16 20:38:18,005 INFO [PUSH-SUCC] 27ms, all delay time 607ms, SLA 488ms, Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=11}, DataSize=1, target=10.130.15.43
+

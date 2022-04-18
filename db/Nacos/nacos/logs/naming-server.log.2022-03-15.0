@@ -1,0 +1,100 @@
+2022-03-15 16:40:01,911 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-03-15 16:40:01,913 INFO listen for service meta change
+
+2022-03-15 17:06:30,694 INFO Client connection 1647335190633_127.0.0.1_60257 connect
+
+2022-03-15 17:06:31,138 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='app-cloudtest', ephemeral=true, revision=0}, 1647335190633_127.0.0.1_60257
+
+2022-03-15 17:16:03,157 INFO Client connection 1647335190633_127.0.0.1_60257 disconnect, remove instances and subscribers
+
+2022-03-15 17:16:03,158 INFO Client connection 1647335177173_127.0.0.1_60242 disconnect, remove instances and subscribers
+
+2022-03-15 17:16:24,261 INFO Client connection 1647335784250_127.0.0.1_60680 connect
+
+2022-03-15 17:16:24,495 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='app-cloudtest', ephemeral=true, revision=2}, 1647335784250_127.0.0.1_60680
+
+2022-03-15 17:25:04,967 INFO Client connection 1647335784250_127.0.0.1_60680 disconnect, remove instances and subscribers
+
+2022-03-15 17:25:04,969 INFO Client connection 1647335776876_127.0.0.1_60676 disconnect, remove instances and subscribers
+
+2022-03-15 17:25:28,102 INFO Client connection 1647336328095_127.0.0.1_61143 connect
+
+2022-03-15 17:25:28,294 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=0}, 1647336328095_127.0.0.1_61143
+
+2022-03-15 17:26:43,595 WARN namespace : public, [DEFAULT_GROUP@@app-cloudtest] services are automatically cleaned
+
+2022-03-15 17:27:16,008 INFO Client connection 1647336318729_127.0.0.1_61139 disconnect, remove instances and subscribers
+
+2022-03-15 17:27:16,009 INFO Client connection 1647336328095_127.0.0.1_61143 disconnect, remove instances and subscribers
+
+2022-03-15 17:27:39,166 INFO Client connection 1647336459154_127.0.0.1_61237 connect
+
+2022-03-15 17:27:39,402 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=2}, 1647336459154_127.0.0.1_61237
+
+2022-03-15 17:32:06,019 INFO Client connection 1647336450178_127.0.0.1_61233 disconnect, remove instances and subscribers
+
+2022-03-15 17:32:06,020 INFO Client connection 1647336459154_127.0.0.1_61237 disconnect, remove instances and subscribers
+
+2022-03-15 17:32:28,239 INFO Client connection 1647336748231_127.0.0.1_61411 connect
+
+2022-03-15 17:32:28,478 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=4}, 1647336748231_127.0.0.1_61411
+
+2022-03-15 17:33:23,517 INFO Client connection 1647336739477_127.0.0.1_61406 disconnect, remove instances and subscribers
+
+2022-03-15 17:33:23,518 INFO Client connection 1647336748231_127.0.0.1_61411 disconnect, remove instances and subscribers
+
+2022-03-15 17:33:55,037 INFO Client connection 1647336835024_127.0.0.1_61475 connect
+
+2022-03-15 17:33:55,238 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=6}, 1647336835024_127.0.0.1_61475
+
+2022-03-15 17:34:20,809 INFO Client connection 1647336835024_127.0.0.1_61475 disconnect, remove instances and subscribers
+
+2022-03-15 17:34:20,809 INFO Client connection 1647336827485_127.0.0.1_61474 disconnect, remove instances and subscribers
+
+2022-03-15 17:34:40,086 INFO Client connection 1647336880080_127.0.0.1_61526 connect
+
+2022-03-15 17:34:40,281 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='springbootSSM-myblog-nacos', ephemeral=true, revision=8}, 1647336880080_127.0.0.1_61526
+
+2022-03-15 17:39:46,468 INFO Client connection 1647336873292_127.0.0.1_61517 disconnect, remove instances and subscribers
+
+2022-03-15 17:39:46,468 INFO Client connection 1647336880080_127.0.0.1_61526 disconnect, remove instances and subscribers
+
+2022-03-15 17:41:43,609 WARN namespace : public, [DEFAULT_GROUP@@springbootSSM-myblog-nacos] services are automatically cleaned
+
+2022-03-15 17:42:57,548 INFO Client connection 1647337377541_127.0.0.1_62239 connect
+
+2022-03-15 17:43:03,957 INFO Client connection 1647337377541_127.0.0.1_62239 disconnect, remove instances and subscribers
+
+2022-03-15 17:43:03,958 INFO Client connection 1647337366692_127.0.0.1_62233 disconnect, remove instances and subscribers
+
+2022-03-15 17:43:26,509 INFO Client connection 1647337406503_127.0.0.1_62281 connect
+
+2022-03-15 17:48:51,253 INFO Client connection 1647337406503_127.0.0.1_62281 disconnect, remove instances and subscribers
+
+2022-03-15 17:48:51,254 INFO Client connection 1647337398291_127.0.0.1_62277 disconnect, remove instances and subscribers
+
+2022-03-15 17:49:16,777 INFO Client connection 1647337756759_127.0.0.1_62598 connect
+
+2022-03-15 17:50:14,673 INFO Client connection 1647337745742_127.0.0.1_62575 disconnect, remove instances and subscribers
+
+2022-03-15 17:50:14,679 INFO Client connection 1647337756759_127.0.0.1_62598 disconnect, remove instances and subscribers
+
+2022-03-15 17:50:32,739 INFO Client connection 1647337832731_127.0.0.1_62742 connect
+
+2022-03-15 17:50:42,545 INFO Client connection 1647337832731_127.0.0.1_62742 disconnect, remove instances and subscribers
+
+2022-03-15 17:50:42,545 INFO Client connection 1647337824942_127.0.0.1_62741 disconnect, remove instances and subscribers
+
+2022-03-15 17:51:03,645 INFO Client connection 1647337863638_127.0.0.1_62783 connect
+
+2022-03-15 17:52:21,949 INFO Client connection 1647337863638_127.0.0.1_62783 disconnect, remove instances and subscribers
+
+2022-03-15 17:52:22,151 INFO Client connection 1647337856254_127.0.0.1_62778 disconnect, remove instances and subscribers
+
+2022-03-15 17:52:41,447 INFO Client connection 1647337961441_127.0.0.1_62911 connect
+
+2022-03-15 17:53:52,520 INFO Client connection 1647337953951_127.0.0.1_62903 disconnect, remove instances and subscribers
+
+2022-03-15 17:53:52,523 INFO Client connection 1647337961441_127.0.0.1_62911 disconnect, remove instances and subscribers
+

@@ -1,0 +1,14 @@
+2022-03-17 14:57:55,533 WARN [dump-ignore] ignore to save cache file. groupKey=application.yml+DEFAULT_GROUP+ae0844d4-108f-425d-b80e-d89882f203f4, md5=82319c4350e866b53ef15e80ff577907, lastModifiedOld=1647500269931, lastModifiedNew=1647500271092
+
+2022-03-17 16:59:32,002 INFO [dump-all-ok] application-dev.yaml+DEFAULT_GROUP, 1647419680035, length=935, md5=eede2cb07a72f681b635a2c036f80730
+
+2022-03-17 16:59:32,004 INFO [dump-all-ok] application.yml+DEFAULT_GROUP, 1647412792411, length=21, md5=82319c4350e866b53ef15e80ff577907
+
+2022-03-17 16:59:32,005 INFO [dump-all-ok] application-dev.yaml+DEFAULT_GROUP, 1647500303101, length=977, md5=27b1a06ebbb2539b993ff63649dc9008
+
+2022-03-17 16:59:32,038 INFO [dump-all-ok] application.yml+DEFAULT_GROUP, 1647502208598, length=20, md5=89f7b26715cf760d099a258200381fe0
+
+2022-03-17 17:02:52,304 WARN [dump-ignore] ignore to save cache file. groupKey=application-dev.yaml+DEFAULT_GROUP, md5=2a1d39d2d2e18845eb995e674433a5d0, lastModifiedOld=1647507732737, lastModifiedNew=1647507772265
+
+2022-03-17 20:31:08,983 WARN [dump-ignore] ignore to save cache file. groupKey=application.yml+DEFAULT_GROUP, md5=89f7b26715cf760d099a258200381fe0, lastModifiedOld=1647520262310, lastModifiedNew=1647520268945
+

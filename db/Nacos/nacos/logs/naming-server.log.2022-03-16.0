@@ -1,0 +1,408 @@
+2022-03-16 09:45:13,565 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-03-16 09:45:13,568 INFO listen for service meta change
+
+2022-03-16 10:40:14,141 INFO Client connection 1647398408356_127.0.0.1_52766 disconnect, remove instances and subscribers
+
+2022-03-16 10:41:08,618 INFO Client connection 1647398468568_127.0.0.1_52797 connect
+
+2022-03-16 10:41:09,265 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='springboot-nacos', ephemeral=true, revision=0}, 1647398468568_127.0.0.1_52797
+
+2022-03-16 10:41:17,770 INFO Client connection 1647398468568_127.0.0.1_52797 disconnect, remove instances and subscribers
+
+2022-03-16 10:41:17,828 INFO Client connection 1647398460104_127.0.0.1_52795 disconnect, remove instances and subscribers
+
+2022-03-16 10:41:38,375 INFO Client connection 1647398498365_127.0.0.1_52831 connect
+
+2022-03-16 10:41:38,679 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='springboot-nacos', ephemeral=true, revision=2}, 1647398498365_127.0.0.1_52831
+
+2022-03-16 10:50:28,394 INFO Client connection 1647398498365_127.0.0.1_52831 disconnect, remove instances and subscribers
+
+2022-03-16 10:50:28,394 INFO Client connection 1647398490854_127.0.0.1_52828 disconnect, remove instances and subscribers
+
+2022-03-16 10:51:53,877 WARN namespace : public, [DEFAULT_GROUP@@springboot-nacos] services are automatically cleaned
+
+2022-03-16 11:16:57,823 INFO Client connection 1647400617743_127.0.0.1_60526 connect
+
+2022-03-16 11:16:58,270 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, 1647400617743_127.0.0.1_60526
+
+2022-03-16 11:20:34,792 INFO Client connection 1647400597915_127.0.0.1_60523 disconnect, remove instances and subscribers
+
+2022-03-16 11:20:34,792 INFO Client connection 1647400617743_127.0.0.1_60526 disconnect, remove instances and subscribers
+
+2022-03-16 11:21:01,234 INFO Client connection 1647400861227_127.0.0.1_60625 connect
+
+2022-03-16 11:21:02,198 INFO Client connection 1647400861227_127.0.0.1_60625 disconnect, remove instances and subscribers
+
+2022-03-16 11:21:02,557 INFO Client connection 1647400852214_127.0.0.1_60622 disconnect, remove instances and subscribers
+
+2022-03-16 11:21:49,025 INFO Client connection 1647400909002_127.0.0.1_60656 connect
+
+2022-03-16 11:21:49,950 INFO Client connection 1647400909002_127.0.0.1_60656 disconnect, remove instances and subscribers
+
+2022-03-16 11:21:50,333 INFO Client connection 1647400901513_127.0.0.1_60654 disconnect, remove instances and subscribers
+
+2022-03-16 11:21:53,964 WARN namespace : public, [DEFAULT_GROUP@@application] services are automatically cleaned
+
+2022-03-16 11:23:09,324 INFO Client connection 1647400989318_127.0.0.1_60691 connect
+
+2022-03-16 11:23:10,187 INFO Client connection 1647400989318_127.0.0.1_60691 disconnect, remove instances and subscribers
+
+2022-03-16 11:23:10,572 INFO Client connection 1647400980367_127.0.0.1_60690 disconnect, remove instances and subscribers
+
+2022-03-16 11:24:32,984 INFO Client connection 1647401072978_127.0.0.1_60726 connect
+
+2022-03-16 11:24:33,183 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='community', ephemeral=true, revision=0}, 1647401072978_127.0.0.1_60726
+
+2022-03-16 11:27:29,262 INFO Client connection 1647401072978_127.0.0.1_60726 disconnect, remove instances and subscribers
+
+2022-03-16 11:27:29,292 INFO Client connection 1647401064138_127.0.0.1_60721 disconnect, remove instances and subscribers
+
+2022-03-16 11:28:00,986 INFO Client connection 1647401280980_127.0.0.1_60956 connect
+
+2022-03-16 11:28:01,364 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='community', ephemeral=true, revision=2}, 1647401280980_127.0.0.1_60956
+
+2022-03-16 11:31:00,170 INFO Client connection 1647401280980_127.0.0.1_60956 disconnect, remove instances and subscribers
+
+2022-03-16 11:31:00,170 INFO Client connection 1647401272680_127.0.0.1_60955 disconnect, remove instances and subscribers
+
+2022-03-16 14:38:48,721 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-03-16 14:38:48,722 INFO listen for service meta change
+
+2022-03-16 14:40:57,117 INFO Client connection 1647412857106_127.0.0.1_56983 connect
+
+2022-03-16 14:40:58,237 INFO Client connection 1647412857106_127.0.0.1_56983 disconnect, remove instances and subscribers
+
+2022-03-16 14:40:58,615 INFO Client connection 1647412846008_127.0.0.1_56979 disconnect, remove instances and subscribers
+
+2022-03-16 14:42:21,514 INFO Client connection 1647412941500_127.0.0.1_57041 connect
+
+2022-03-16 14:42:22,374 INFO Client connection 1647412941500_127.0.0.1_57041 disconnect, remove instances and subscribers
+
+2022-03-16 14:42:22,758 INFO Client connection 1647412933068_127.0.0.1_57033 disconnect, remove instances and subscribers
+
+2022-03-16 14:52:24,095 INFO Client connection 1647413544086_127.0.0.1_57385 connect
+
+2022-03-16 14:52:24,926 INFO Client connection 1647413544086_127.0.0.1_57385 disconnect, remove instances and subscribers
+
+2022-03-16 14:52:25,312 INFO Client connection 1647413535956_127.0.0.1_57371 disconnect, remove instances and subscribers
+
+2022-03-16 14:53:22,641 INFO Client connection 1647413602634_127.0.0.1_57432 connect
+
+2022-03-16 14:53:22,887 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, 1647413602634_127.0.0.1_57432
+
+2022-03-16 14:57:46,963 INFO Client connection 1647413602634_127.0.0.1_57432 disconnect, remove instances and subscribers
+
+2022-03-16 14:57:46,964 INFO Client connection 1647413595163_127.0.0.1_57426 disconnect, remove instances and subscribers
+
+2022-03-16 14:58:19,857 INFO Client connection 1647413895281_127.0.0.1_57617 disconnect, remove instances and subscribers
+
+2022-03-16 14:59:29,736 INFO Client connection 1647413965932_127.0.0.1_57658 disconnect, remove instances and subscribers
+
+2022-03-16 14:59:32,917 WARN namespace : public, [DEFAULT_GROUP@@application] services are automatically cleaned
+
+2022-03-16 15:01:42,101 INFO Client connection 1647414097970_127.0.0.1_57758 disconnect, remove instances and subscribers
+
+2022-03-16 15:02:40,460 INFO Client connection 1647414156758_127.0.0.1_57805 disconnect, remove instances and subscribers
+
+2022-03-16 15:05:36,163 INFO Client connection 1647414331412_127.0.0.1_57920 disconnect, remove instances and subscribers
+
+2022-03-16 15:12:32,467 INFO Client connection 1647414748796_127.0.0.1_58145 disconnect, remove instances and subscribers
+
+2022-03-16 15:13:39,625 INFO Client connection 1647414816119_127.0.0.1_58182 disconnect, remove instances and subscribers
+
+2022-03-16 15:17:40,050 INFO Client connection 1647415055775_127.0.0.1_58284 disconnect, remove instances and subscribers
+
+2022-03-16 15:18:50,510 INFO Client connection 1647415126983_127.0.0.1_58314 disconnect, remove instances and subscribers
+
+2022-03-16 15:21:07,754 INFO Client connection 1647415263944_127.0.0.1_58369 disconnect, remove instances and subscribers
+
+2022-03-16 15:22:22,296 INFO Client connection 1647415338412_127.0.0.1_58398 disconnect, remove instances and subscribers
+
+2022-03-16 15:23:30,885 INFO Client connection 1647415407370_127.0.0.1_58431 disconnect, remove instances and subscribers
+
+2022-03-16 15:25:09,229 INFO Client connection 1647415505584_127.0.0.1_58469 disconnect, remove instances and subscribers
+
+2022-03-16 15:25:50,134 INFO Client connection 1647415546225_127.0.0.1_58495 disconnect, remove instances and subscribers
+
+2022-03-16 15:31:54,102 INFO Client connection 1647415910497_127.0.0.1_58615 disconnect, remove instances and subscribers
+
+2022-03-16 15:32:23,079 INFO Client connection 1647415939067_127.0.0.1_58640 disconnect, remove instances and subscribers
+
+2022-03-16 15:33:58,482 INFO Client connection 1647416034474_127.0.0.1_58675 disconnect, remove instances and subscribers
+
+2022-03-16 15:38:04,370 INFO Client connection 1647416279993_127.0.0.1_58726 disconnect, remove instances and subscribers
+
+2022-03-16 15:39:10,477 INFO Client connection 1647416346952_127.0.0.1_58762 disconnect, remove instances and subscribers
+
+2022-03-16 16:05:00,151 INFO Client connection 1647417895587_127.0.0.1_49316 disconnect, remove instances and subscribers
+
+2022-03-16 16:06:50,475 INFO Client connection 1647418010467_127.0.0.1_49357 connect
+
+2022-03-16 16:06:50,759 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, 1647418010467_127.0.0.1_49357
+
+2022-03-16 16:08:11,463 INFO Client connection 1647418000421_127.0.0.1_49356 disconnect, remove instances and subscribers
+
+2022-03-16 16:08:11,463 INFO Client connection 1647418010467_127.0.0.1_49357 disconnect, remove instances and subscribers
+
+2022-03-16 16:08:31,587 INFO Client connection 1647418111574_127.0.0.1_49407 connect
+
+2022-03-16 16:08:31,866 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=2}, 1647418111574_127.0.0.1_49407
+
+2022-03-16 16:11:16,833 INFO Client connection 1647418111574_127.0.0.1_49407 disconnect, remove instances and subscribers
+
+2022-03-16 16:11:16,834 INFO Client connection 1647418104029_127.0.0.1_49406 disconnect, remove instances and subscribers
+
+2022-03-16 16:11:34,985 INFO Client connection 1647418291498_127.0.0.1_49492 disconnect, remove instances and subscribers
+
+2022-03-16 16:12:33,008 WARN namespace : public, [DEFAULT_GROUP@@application] services are automatically cleaned
+
+2022-03-16 16:33:11,116 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2022-03-16 16:33:11,118 INFO listen for service meta change
+
+2022-03-16 16:33:47,510 INFO Client connection 1647419627499_127.0.0.1_60034 connect
+
+2022-03-16 16:33:47,875 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, 1647419627499_127.0.0.1_60034
+
+2022-03-16 16:35:41,398 INFO Client connection 1647419619547_127.0.0.1_60033 disconnect, remove instances and subscribers
+
+2022-03-16 16:35:41,398 INFO Client connection 1647419627499_127.0.0.1_60034 disconnect, remove instances and subscribers
+
+2022-03-16 16:36:03,116 INFO Client connection 1647419763108_127.0.0.1_60109 connect
+
+2022-03-16 16:36:04,044 INFO Client connection 1647419763108_127.0.0.1_60109 disconnect, remove instances and subscribers
+
+2022-03-16 16:36:04,434 INFO Client connection 1647419755674_127.0.0.1_60108 disconnect, remove instances and subscribers
+
+2022-03-16 16:36:46,679 INFO Client connection 1647419806671_127.0.0.1_60140 connect
+
+2022-03-16 16:36:46,916 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=2}, 1647419806671_127.0.0.1_60140
+
+2022-03-16 16:37:20,376 INFO Client connection 1647419806671_127.0.0.1_60140 disconnect, remove instances and subscribers
+
+2022-03-16 16:37:20,377 INFO Client connection 1647419799253_127.0.0.1_60139 disconnect, remove instances and subscribers
+
+2022-03-16 16:38:48,436 WARN namespace : public, [DEFAULT_GROUP@@application] services are automatically cleaned
+
+2022-03-16 16:50:09,968 INFO Client connection 1647420609961_127.0.0.1_60557 connect
+
+2022-03-16 16:50:10,231 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, 1647420609961_127.0.0.1_60557
+
+2022-03-16 16:52:20,523 INFO Client connection 1647420609961_127.0.0.1_60557 disconnect, remove instances and subscribers
+
+2022-03-16 16:52:20,524 INFO Client connection 1647420597800_127.0.0.1_60550 disconnect, remove instances and subscribers
+
+2022-03-16 16:52:44,113 INFO Client connection 1647420764106_127.0.0.1_60692 connect
+
+2022-03-16 16:52:44,343 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=2}, 1647420764106_127.0.0.1_60692
+
+2022-03-16 16:56:18,664 INFO Client connection 1647420756198_127.0.0.1_60689 disconnect, remove instances and subscribers
+
+2022-03-16 16:56:18,665 INFO Client connection 1647420764106_127.0.0.1_60692 disconnect, remove instances and subscribers
+
+2022-03-16 16:56:48,057 INFO Client connection 1647421008030_127.0.0.1_60834 connect
+
+2022-03-16 16:56:48,411 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=4}, 1647421008030_127.0.0.1_60834
+
+2022-03-16 17:03:56,835 INFO Client connection 1647420997768_127.0.0.1_60824 disconnect, remove instances and subscribers
+
+2022-03-16 17:03:56,835 INFO Client connection 1647421008030_127.0.0.1_60834 disconnect, remove instances and subscribers
+
+2022-03-16 17:04:25,966 INFO Client connection 1647421465960_127.0.0.1_60998 connect
+
+2022-03-16 17:04:26,180 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=6}, 1647421465960_127.0.0.1_60998
+
+2022-03-16 17:15:32,374 INFO Client connection 1647421457150_127.0.0.1_60997 disconnect, remove instances and subscribers
+
+2022-03-16 17:15:32,376 INFO Client connection 1647421465960_127.0.0.1_60998 disconnect, remove instances and subscribers
+
+2022-03-16 17:15:57,935 INFO Client connection 1647422157924_127.0.0.1_61186 connect
+
+2022-03-16 17:15:58,156 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=8}, 1647422157924_127.0.0.1_61186
+
+2022-03-16 17:18:20,362 INFO Client connection 1647422157924_127.0.0.1_61186 disconnect, remove instances and subscribers
+
+2022-03-16 17:18:20,363 INFO Client connection 1647422150453_127.0.0.1_61184 disconnect, remove instances and subscribers
+
+2022-03-16 17:18:46,361 INFO Client connection 1647422326355_127.0.0.1_61282 connect
+
+2022-03-16 17:18:46,591 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=10}, 1647422326355_127.0.0.1_61282
+
+2022-03-16 17:23:49,186 INFO Client connection 1647422316730_127.0.0.1_61279 disconnect, remove instances and subscribers
+
+2022-03-16 17:23:49,187 INFO Client connection 1647422326355_127.0.0.1_61282 disconnect, remove instances and subscribers
+
+2022-03-16 17:24:12,238 INFO Client connection 1647422652231_127.0.0.1_61396 connect
+
+2022-03-16 17:24:12,444 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=12}, 1647422652231_127.0.0.1_61396
+
+2022-03-16 17:30:47,682 INFO Client connection 1647422652231_127.0.0.1_61396 disconnect, remove instances and subscribers
+
+2022-03-16 17:30:47,683 INFO Client connection 1647422644448_127.0.0.1_61394 disconnect, remove instances and subscribers
+
+2022-03-16 17:31:15,048 INFO Client connection 1647423075042_127.0.0.1_61524 connect
+
+2022-03-16 17:31:15,262 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=14}, 1647423075042_127.0.0.1_61524
+
+2022-03-16 17:35:57,315 INFO Client connection 1647423066941_127.0.0.1_61522 disconnect, remove instances and subscribers
+
+2022-03-16 17:35:57,315 INFO Client connection 1647423075042_127.0.0.1_61524 disconnect, remove instances and subscribers
+
+2022-03-16 17:36:21,374 INFO Client connection 1647423381367_127.0.0.1_61666 connect
+
+2022-03-16 17:36:21,586 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=16}, 1647423381367_127.0.0.1_61666
+
+2022-03-16 17:56:49,770 INFO Client connection 1647423373977_127.0.0.1_61664 disconnect, remove instances and subscribers
+
+2022-03-16 17:56:49,773 INFO Client connection 1647423381367_127.0.0.1_61666 disconnect, remove instances and subscribers
+
+2022-03-16 17:57:28,286 INFO Client connection 1647424648280_127.0.0.1_61981 connect
+
+2022-03-16 17:57:28,554 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=18}, 1647424648280_127.0.0.1_61981
+
+2022-03-16 17:58:45,056 INFO Client connection 1647424648280_127.0.0.1_61981 disconnect, remove instances and subscribers
+
+2022-03-16 17:58:45,056 INFO Client connection 1647424638774_127.0.0.1_61977 disconnect, remove instances and subscribers
+
+2022-03-16 17:59:10,366 INFO Client connection 1647424750356_127.0.0.1_62072 connect
+
+2022-03-16 17:59:10,626 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=20}, 1647424750356_127.0.0.1_62072
+
+2022-03-16 18:00:17,109 INFO Client connection 1647424741818_127.0.0.1_62071 disconnect, remove instances and subscribers
+
+2022-03-16 18:00:17,110 INFO Client connection 1647424750356_127.0.0.1_62072 disconnect, remove instances and subscribers
+
+2022-03-16 18:00:44,160 INFO Client connection 1647424844140_127.0.0.1_57193 connect
+
+2022-03-16 18:00:44,568 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=22}, 1647424844140_127.0.0.1_57193
+
+2022-03-16 18:35:16,005 INFO Client connection 1647424832706_127.0.0.1_62111 disconnect, remove instances and subscribers
+
+2022-03-16 18:35:16,006 INFO Client connection 1647424844140_127.0.0.1_57193 disconnect, remove instances and subscribers
+
+2022-03-16 18:35:59,083 INFO Client connection 1647426959074_127.0.0.1_58005 connect
+
+2022-03-16 18:35:59,347 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=24}, 1647426959074_127.0.0.1_58005
+
+2022-03-16 18:36:15,332 INFO Client connection 1647426959074_127.0.0.1_58005 disconnect, remove instances and subscribers
+
+2022-03-16 18:36:15,344 INFO Client connection 1647426947201_127.0.0.1_58004 disconnect, remove instances and subscribers
+
+2022-03-16 18:36:40,908 INFO Client connection 1647427000861_127.0.0.1_58094 connect
+
+2022-03-16 18:36:41,266 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=26}, 1647427000861_127.0.0.1_58094
+
+2022-03-16 18:48:26,471 INFO Client connection 1647426991868_127.0.0.1_58070 disconnect, remove instances and subscribers
+
+2022-03-16 18:48:26,471 INFO Client connection 1647427000861_127.0.0.1_58094 disconnect, remove instances and subscribers
+
+2022-03-16 18:48:51,403 INFO Client connection 1647427731350_127.0.0.1_58472 connect
+
+2022-03-16 18:48:51,560 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=28}, 1647427731350_127.0.0.1_58472
+
+2022-03-16 19:20:23,052 INFO Client connection 1647427731350_127.0.0.1_58472 disconnect, remove instances and subscribers
+
+2022-03-16 19:20:23,057 INFO Client connection 1647427723417_127.0.0.1_58468 disconnect, remove instances and subscribers
+
+2022-03-16 19:20:52,078 INFO Client connection 1647429652065_127.0.0.1_59565 connect
+
+2022-03-16 19:20:52,343 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=30}, 1647429652065_127.0.0.1_59565
+
+2022-03-16 19:25:37,185 INFO Client connection 1647429652065_127.0.0.1_59565 disconnect, remove instances and subscribers
+
+2022-03-16 19:25:37,194 INFO Client connection 1647429644458_127.0.0.1_59557 disconnect, remove instances and subscribers
+
+2022-03-16 19:26:07,295 INFO Client connection 1647429967291_127.0.0.1_59719 connect
+
+2022-03-16 19:26:07,496 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=32}, 1647429967291_127.0.0.1_59719
+
+2022-03-16 19:27:27,070 INFO Client connection 1647429967291_127.0.0.1_59719 disconnect, remove instances and subscribers
+
+2022-03-16 19:27:27,070 INFO Client connection 1647429958089_127.0.0.1_59717 disconnect, remove instances and subscribers
+
+2022-03-16 19:27:51,971 INFO Client connection 1647430071965_127.0.0.1_59787 connect
+
+2022-03-16 19:27:52,286 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=34}, 1647430071965_127.0.0.1_59787
+
+2022-03-16 19:27:53,014 INFO Client connection 1647430061625_127.0.0.1_59776 disconnect, remove instances and subscribers
+
+2022-03-16 19:27:53,015 INFO Client connection 1647430071965_127.0.0.1_59787 disconnect, remove instances and subscribers
+
+2022-03-16 19:28:16,333 INFO Client connection 1647430096327_127.0.0.1_59821 connect
+
+2022-03-16 19:28:16,588 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=36}, 1647430096327_127.0.0.1_59821
+
+2022-03-16 19:40:09,978 INFO Client connection 1647430087704_127.0.0.1_59819 disconnect, remove instances and subscribers
+
+2022-03-16 19:40:10,109 INFO Client connection 1647430096327_127.0.0.1_59821 disconnect, remove instances and subscribers
+
+2022-03-16 19:41:08,701 INFO Client connection 1647430868659_127.0.0.1_60308 connect
+
+2022-03-16 19:41:09,194 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=38}, 1647430868659_127.0.0.1_60308
+
+2022-03-16 19:56:06,960 INFO Client connection 1647431766840_127.0.0.1_60964 connect
+
+2022-03-16 19:56:07,358 INFO Client connection 1647430868659_127.0.0.1_60308 disconnect, remove instances and subscribers
+
+2022-03-16 19:56:07,401 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=40}, 1647431766840_127.0.0.1_60964
+
+2022-03-16 19:56:37,637 INFO Client connection 1647430855675_127.0.0.1_60300 disconnect, remove instances and subscribers
+
+2022-03-16 19:56:41,665 INFO Client connection 1647431766840_127.0.0.1_60964 disconnect, remove instances and subscribers
+
+2022-03-16 19:57:49,283 WARN namespace : public, [DEFAULT_GROUP@@application] services are automatically cleaned
+
+2022-03-16 20:00:25,844 INFO Client connection 1647432025813_127.0.0.1_61245 connect
+
+2022-03-16 20:00:26,310 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, 1647432025813_127.0.0.1_61245
+
+2022-03-16 20:20:20,717 INFO Client connection 1647432004856_127.0.0.1_61193 disconnect, remove instances and subscribers
+
+2022-03-16 20:20:20,719 INFO Client connection 1647432025813_127.0.0.1_61245 disconnect, remove instances and subscribers
+
+2022-03-16 20:21:49,323 WARN namespace : public, [DEFAULT_GROUP@@application] services are automatically cleaned
+
+2022-03-16 20:23:45,609 INFO Client connection 1647433425589_127.0.0.1_63257 connect
+
+2022-03-16 20:23:45,843 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=0}, 1647433425589_127.0.0.1_63257
+
+2022-03-16 20:23:46,030 INFO Client connection 1647433425951_127.0.0.1_63259 connect
+
+2022-03-16 20:23:46,126 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=1}, 1647433425951_127.0.0.1_63259
+
+2022-03-16 20:23:46,130 INFO Client connection 1647433425589_127.0.0.1_63257 disconnect, remove instances and subscribers
+
+2022-03-16 20:32:28,247 INFO Client connection 1647433425659_127.0.0.1_63258 disconnect, remove instances and subscribers
+
+2022-03-16 20:32:28,254 INFO Client connection 1647433425951_127.0.0.1_63259 disconnect, remove instances and subscribers
+
+2022-03-16 20:33:09,091 INFO Client connection 1647433989070_127.0.0.1_64221 connect
+
+2022-03-16 20:33:09,432 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=4}, 1647433989070_127.0.0.1_64221
+
+2022-03-16 20:35:24,764 INFO Client connection 1647433989070_127.0.0.1_64221 disconnect, remove instances and subscribers
+
+2022-03-16 20:35:24,765 INFO Client connection 1647433977837_127.0.0.1_64207 disconnect, remove instances and subscribers
+
+2022-03-16 20:35:49,428 INFO Client connection 1647434149422_127.0.0.1_64462 connect
+
+2022-03-16 20:35:49,715 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=6}, 1647434149422_127.0.0.1_64462
+
+2022-03-16 20:36:47,995 INFO Client connection 1647434149422_127.0.0.1_64462 disconnect, remove instances and subscribers
+
+2022-03-16 20:36:47,996 INFO Client connection 1647434140277_127.0.0.1_64452 disconnect, remove instances and subscribers
+
+2022-03-16 20:37:11,983 INFO Client connection 1647434231969_127.0.0.1_64610 connect
+
+2022-03-16 20:37:12,254 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=8}, 1647434231969_127.0.0.1_64610
+
+2022-03-16 20:37:52,654 INFO Client connection 1647434231969_127.0.0.1_64610 disconnect, remove instances and subscribers
+
+2022-03-16 20:37:52,655 INFO Client connection 1647434223899_127.0.0.1_64598 disconnect, remove instances and subscribers
+
+2022-03-16 20:38:17,287 INFO Client connection 1647434297276_127.0.0.1_64749 connect
+
+2022-03-16 20:38:17,517 INFO Client change for service Service{namespace='public', group='DEFAULT_GROUP', name='application', ephemeral=true, revision=10}, 1647434297276_127.0.0.1_64749
+

@@ -1,0 +1,134 @@
+2022-03-15 16:40:11,048 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2022-03-15 16:40:11,441 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2022-03-15 16:40:11,912 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2022-03-15 16:40:11,929 INFO The number of active nodes increment to 1.
+
+2022-03-15 16:40:13,334 INFO Starts FSMCaller successfully.
+
+2022-03-15 16:40:13,353 WARN No data for snapshot reader F:\workSpace\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot.
+
+2022-03-15 16:40:13,390 INFO Node <naming_persistent_service_v2/10.130.15.43:7848> init, term=0, lastLogId=LogId [index=0, term=0], conf=10.130.15.43:7848, oldConf=.
+
+2022-03-15 16:40:13,394 INFO Node <naming_persistent_service_v2/10.130.15.43:7848> start vote and grant vote self, term=0.
+
+2022-03-15 16:40:13,463 WARN Unable to fsync directory F:\workSpace\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data on windows.
+
+2022-03-15 16:40:13,475 INFO Save raft meta, path=F:\workSpace\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\meta-data, term=1, votedFor=10.130.15.43:7848, cost time=67 ms
+
+2022-03-15 16:40:13,475 INFO Node <naming_persistent_service_v2/10.130.15.43:7848> become leader of group, term=1, conf=10.130.15.43:7848, oldConf=.
+
+2022-03-15 16:40:13,480 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2022-03-15 16:40:13,488 WARN RPC server is not started in RaftGroupService.
+
+2022-03-15 16:40:13,488 INFO Start the RaftGroupService successfully.
+
+2022-03-15 16:40:13,573 INFO onLeaderStart: term=1.
+
+2022-03-15 16:40:13,660 INFO The number of active nodes increment to 2.
+
+2022-03-15 16:40:13,829 WARN Channel in TRANSIENT_FAILURE state: 10.130.15.43:7848.
+
+2022-03-15 16:40:13,829 WARN Channel in SHUTDOWN state: 10.130.15.43:7848.
+
+2022-03-15 16:40:13,935 INFO Starts FSMCaller successfully.
+
+2022-03-15 16:40:13,935 WARN No data for snapshot reader F:\workSpace\Nacos\nacos\data\protocol\raft\naming_instance_metadata\snapshot.
+
+2022-03-15 16:40:13,938 INFO Node <naming_instance_metadata/10.130.15.43:7848> init, term=0, lastLogId=LogId [index=0, term=0], conf=10.130.15.43:7848, oldConf=.
+
+2022-03-15 16:40:13,938 INFO Node <naming_instance_metadata/10.130.15.43:7848> start vote and grant vote self, term=0.
+
+2022-03-15 16:40:13,961 WARN Unable to fsync directory F:\workSpace\Nacos\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
+
+2022-03-15 16:40:13,961 INFO Save raft meta, path=F:\workSpace\Nacos\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=1, votedFor=10.130.15.43:7848, cost time=22 ms
+
+2022-03-15 16:40:13,961 INFO Node <naming_instance_metadata/10.130.15.43:7848> become leader of group, term=1, conf=10.130.15.43:7848, oldConf=.
+
+2022-03-15 16:40:13,961 WARN RPC server is not started in RaftGroupService.
+
+2022-03-15 16:40:13,961 INFO Start the RaftGroupService successfully.
+
+2022-03-15 16:40:14,025 INFO onLeaderStart: term=1.
+
+2022-03-15 16:40:14,027 INFO The number of active nodes increment to 3.
+
+2022-03-15 16:40:14,541 INFO Starts FSMCaller successfully.
+
+2022-03-15 16:40:14,541 WARN No data for snapshot reader F:\workSpace\Nacos\nacos\data\protocol\raft\naming_service_metadata\snapshot.
+
+2022-03-15 16:40:14,542 INFO Node <naming_service_metadata/10.130.15.43:7848> init, term=0, lastLogId=LogId [index=0, term=0], conf=10.130.15.43:7848, oldConf=.
+
+2022-03-15 16:40:14,542 INFO Node <naming_service_metadata/10.130.15.43:7848> start vote and grant vote self, term=0.
+
+2022-03-15 16:40:14,603 WARN Unable to fsync directory F:\workSpace\Nacos\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
+
+2022-03-15 16:40:14,604 INFO Save raft meta, path=F:\workSpace\Nacos\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=1, votedFor=10.130.15.43:7848, cost time=62 ms
+
+2022-03-15 16:40:14,604 INFO Node <naming_service_metadata/10.130.15.43:7848> become leader of group, term=1, conf=10.130.15.43:7848, oldConf=.
+
+2022-03-15 16:40:14,604 WARN RPC server is not started in RaftGroupService.
+
+2022-03-15 16:40:14,604 INFO Start the RaftGroupService successfully.
+
+2022-03-15 16:40:14,642 INFO onLeaderStart: term=1.
+
+2022-03-15 16:40:14,879 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: DEADLINE_EXCEEDED: deadline exceeded after 873353500ns. [buffered_nanos=876950300, waiting_for_connection].
+
+2022-03-15 16:40:14,879 ERROR Fail to connect peer 10.130.15.43:7848 to get leader for group naming_persistent_service_v2.
+
+2022-03-15 17:05:14,818 WARN Unable to fsync directory F:\workSpace\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp on windows.
+
+2022-03-15 17:05:14,818 INFO Deleting snapshot F:\workSpace\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_1.
+
+2022-03-15 17:05:14,819 INFO Renaming F:\workSpace\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\temp to F:\workSpace\Nacos\nacos\data\protocol\raft\naming_persistent_service_v2\snapshot\snapshot_1.
+
+2022-03-15 17:06:06,568 WARN Unable to fsync directory F:\workSpace\Nacos\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp on windows.
+
+2022-03-15 17:06:06,568 INFO Deleting snapshot F:\workSpace\Nacos\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_1.
+
+2022-03-15 17:06:06,568 INFO Renaming F:\workSpace\Nacos\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp to F:\workSpace\Nacos\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_1.
+
+2022-03-15 17:09:15,790 WARN Unable to fsync directory F:\workSpace\Nacos\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
+
+2022-03-15 17:09:15,790 INFO Deleting snapshot F:\workSpace\Nacos\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_1.
+
+2022-03-15 17:09:15,790 INFO Renaming F:\workSpace\Nacos\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to F:\workSpace\Nacos\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_1.
+
+2022-03-15 17:39:31,141 INFO Connection disconnected: /10.130.15.43:59346
+
+2022-03-15 17:39:56,192 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: DEADLINE_EXCEEDED: deadline exceeded after 999912200ns. [buffered_nanos=1000613800, waiting_for_connection].
+
+2022-03-15 17:40:16,187 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:40:16,200 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:40:37,203 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:40:37,203 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:40:58,212 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:41:10,782 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:41:10,783 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:41:12,077 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:41:12,078 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:41:15,781 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:41:15,781 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:41:19,119 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:41:19,120 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:41:21,419 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
+2022-03-15 17:41:21,420 ERROR Fail to connect 10.130.15.43:7848, remoting exception: java.util.concurrent.ExecutionException: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception.
+
