@@ -9,8 +9,11 @@ import org.apache.shiro.authc.AuthenticationException;
 import org.apache.shiro.authc.AuthenticationInfo;
 import org.apache.shiro.authc.AuthenticationToken;
 import org.apache.shiro.authc.SimpleAuthenticationInfo;
+import org.apache.shiro.authc.credential.CredentialsMatcher;
+import org.apache.shiro.authc.credential.HashedCredentialsMatcher;
 import org.apache.shiro.authz.AuthorizationInfo;
 import org.apache.shiro.authz.SimpleAuthorizationInfo;
+import org.apache.shiro.crypto.hash.Md5Hash;
 import org.apache.shiro.realm.AuthorizingRealm;
 import org.apache.shiro.subject.PrincipalCollection;
 import org.apache.shiro.util.CollectionUtils;
@@ -80,11 +83,23 @@ public class MyShiroRealm extends AuthorizingRealm {
         UserService userService = (UserService) ApplicationContextUtils.getBean("userService");
         //根据账号查询信息
         User user = userService.findByAccount(principal);
+//        String s = new Md5Hash(user.getPassword(), principal).toHex();
         //认证
         if (!ObjectUtils.isEmpty(user)){
             return new SimpleAuthenticationInfo(user.getAccount(),user.getPassword(), new MyByteSource(user.getCodeText()),this.getName());
+//            return new SimpleAuthenticationInfo(user.getAccount(),s, new MyByteSource(user.getCodeText()),this.getName());
         }
 
         return null;
     }
+//    @Override
+//    public void setCredentialsMatcher(CredentialsMatcher credentialsMatcher) {
+//        // 构建凭证匹配对象
+//        HashedCredentialsMatcher cMatcher = new HashedCredentialsMatcher();
+//        // 设置加密算法  Matcher
+//        cMatcher.setHashAlgorithmName("MD5");
+//        // 设置加密次数
+//        cMatcher.setHashIterations(1);
+//        super.setCredentialsMatcher(cMatcher);
+//    }
 }

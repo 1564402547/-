@@ -1,5 +1,6 @@
 package com.wangzg.community.mapper;
 
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.wangzg.community.po.Menu;
 import com.wangzg.community.po.User;
 import org.apache.ibatis.annotations.Mapper;
@@ -15,8 +16,7 @@ import java.util.List;
  * @Description:
  */
 @Mapper
-@Component
-public interface UserMapper {
+public interface UserMapper extends BaseMapper<User> {
 
     //保存用户
     void save(User user);

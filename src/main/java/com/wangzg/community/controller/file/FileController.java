@@ -87,7 +87,7 @@ public class FileController {
         }else {
             // 上传文件到磁盘
             FilesUtils.save(file,path,newName);
-            url = "http://127.0.0.1:8088/file/" + newName;
+            url = "http://127.0.0.1:8082/file/" + newName;
         }
         document.setOldName(oldName);
         document.setType(type);
@@ -104,11 +104,11 @@ public class FileController {
         File file = new File(path + newName);
         ServletOutputStream outputStream = response.getOutputStream();
         Document document = documentMapper.findByNewNameDocument(newName);
-        //使文件完整，加上后缀名
-        String kName = document.getOldName() + StrUtil.DOT + document.getType();
         if (document == null){
             response.addHeader("Content-Disposition", "attachment;filename=" + URLEncoder.encode(newName, "UTF-8"));
         }else {
+            //使文件完整，加上后缀名
+            String kName = document.getOldName() + StrUtil.DOT + document.getType();
             response.addHeader("Content-Disposition", "attachment;filename=" + URLEncoder.encode(kName, "UTF-8"));
         }
         response.setContentType("application/octet-stream");

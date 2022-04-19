@@ -43,17 +43,17 @@ public class JWTInterceptor implements HandlerInterceptor {
         }
 
         // 3是不是一个有效的用户
-//        String account = token.getCode();
-//        User user = userService.findByAccount(account);
-//        if (user == null) {
-//            setResponse(response, "当前的用户不是一个有效的用户，请重新登陆！！");
-//            return false;
-//        }
-//        // 4禁用
-//        if (user.getStatus() == 1) {
-//            setResponse(response, "用户已被禁用，请联系管理员");
-//            return false;
-//        }
+        String account = token.getCode();
+        User user = userService.findByAccount(account);
+        if (user == null) {
+            setResponse(response, "当前的用户不是一个有效的用户，请重新登陆！！");
+            return false;
+        }
+        // 4禁用
+        if (user.getStatus() == 1) {
+            setResponse(response, "用户已被禁用，请联系管理员");
+            return false;
+        }
 
         // 5刷新token 重置有效时间
         strToken = TokenUtil.createToken(token.getCode());
